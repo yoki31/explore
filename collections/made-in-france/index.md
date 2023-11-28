@@ -1,7 +1,7 @@
 ---
 items:
  - strapi/strapi
- - qovery/engine
+ - Qovery/engine
  - symfony/symfony
  - scikit-learn/scikit-learn
  - marmelab/react-admin
@@ -13,10 +13,11 @@ items:
  - ovh/cds
  - nuxt
  - api-platform/api-platform
- - ornicar/lila
+ - lichess-org/lila
  - GitbookIO/gitbook
- - mui-org/material-ui
+ - mui/material-ui
  - PrestaShop/PrestaShop
+ - rlibre/x4js
 display_name: Made in France
 created_by: ferdi05
 image: made-in-france.png
